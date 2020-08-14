@@ -1,0 +1,51 @@
+div.red
+{
+    animation-name: colorchange;   
+    animation-duration: 5s;
+    height:100px;
+    background-color:red;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: colorchange; 
+}
+@keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
+div.white
+{
+    animation-name: colorchange;   
+    animation-duration: 5s;
+    height:100px;
+    background-color:white;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: colorchange; 
+}
+@keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
+div.green
+{
+    animation-name: colorchange;   
+    animation-duration: 5s;
+    height:100px;
+    background-color:green;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: colorchange; 
+}
+@keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+    from { width: 0px; }
+    to { width: 100px; }
+}
