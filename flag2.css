@@ -45,7 +45,7 @@ div.green
     from { width: 0px; }
     to { width: 100px; }
 }
-@-webkit-keyframes colorchange {
+@-webkit-keyframes colorchange{
     from { width: 0px; }
     to { width: 100px; }
 }
